@@ -1,3 +1,6 @@
+*Used code from PyImageSearch and OpenCV’s tutorials*
+Requirements: OpenCV 2.4.13, Python 2.7
+
 1) Open the Python project folder "ObjectRecognition" in PyCharm IDE
 2) Open "main.py"
 3) Run "main.py"
